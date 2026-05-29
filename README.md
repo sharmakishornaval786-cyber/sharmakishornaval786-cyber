@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Naval Kishor Sharma
 
-<!--
-**sharmakishornaval786-cyber/sharmakishornaval786-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Data Analyst & Python Developer  
+📊 Learning Power BI, SQL, Python  
+🚀 Open Source Contributor  
+🌱 Currently learning Data Analytics & Dashboard Building  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- Python
+- SQL
+- Power BI
+- Tableau
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+- Expense Tracker
+- Netflix Dashboard
+- Amazon Sales Dashboard
+- Portfolio Website
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/navalkishorsharma-dev
+
+Portfolio: https://portfolio-ashen-one-10.vercel.app/
+
+---
+
+## 🔥 GitHub Stats
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharmakishornaval786-cyber&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+</p>## 🔥 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharmakishornaval786-cyber&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+</p>
+
+---
+
+## ⚡ GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sharmakishornaval786-cyber&theme=tokyonight)
