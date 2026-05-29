@@ -36,15 +36,7 @@ Portfolio: https://portfolio-ashen-one-10.vercel.app/
 
 ## 🔥 GitHub Stats
 
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharmakishornaval786-cyber&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-</p>## 🔥 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharmakishornaval786-cyber&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-</p>
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sharmakishornaval786-cyber&show_icons=true&theme=tokyonight)
 
 ---
 
