@@ -1,55 +1,62 @@
 <h1 align="center">Hi 👋, I'm Naval Kishor Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Python+Developer;Power+BI+Learner;Open+Source+Contributor&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst&center=true&width=500&height=45" />
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sharmakishornaval786-cyber&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
 
 <p align="center">
-  <b>Building real-world data analytics & dashboard projects</b>
+  <b>Transforming Data into Actionable Insights</b>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 📊 Learning Data Analytics, SQL & Power BI
-- 💻 Building Python & Dashboard Projects
-- 🌱 Exploring Open Source Contributions
-- 🎯 Focused on improving through real projects
+- 📊 Aspiring Data Analyst passionate about extracting insights from data
+- 💻 Skilled in Python, SQL, Power BI, Excel, and Data Visualization
+- 🌱 Currently working on real-world analytics projects and internships
+- 🎯 Goal: Build impactful data-driven solutions and grow as a Data Analyst
 
+---
+
+## 🏆 GitHub Trophies 
+
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=sharmakishornaval786-cyber&theme=tokyonight&no-frame=true&row=1&column=7" /> 
+</p>
 ---
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> 
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 📊 Super Store Dashboard
-Power BI dashboard focused on:
-- Sales Insights
-- Profit Analysis
-- Customer Trends
-- KPI Tracking
+### 📊 Superstore Sales Dashboard
+Interactive Power BI Dashboard
+Sales & Profit Analysis
+Regional Performance Tracking
+KPI Monitoring
 
-### 🌐 Portfolio Website
-Personal portfolio showcasing:
-- Projects
-- Skills
-- Certificates
-- Contact Information
+### 🎬 Netflix Data Analysis
+Exploratory Data Analysis using Python
+Content trends and genre insights
+Visualizations with Matplotlib & Seaborn
+Data Cleaning using Pandas
+
+---
+
+## 📈 GitHub Stats 
+<p align="center"> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sharmakishornaval786-cyber&show_icons=true&theme=tokyonight" /> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmakishornaval786-cyber&layout=compact&theme=tokyonight" /> 
+</p>
 
 ---
 
@@ -75,12 +82,10 @@ Personal portfolio showcasing:
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmakishornaval786-cyber&theme=tokyonight" />
-</p>
+## 📋 Profile Summary 
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmakishornaval786-cyber&theme=tokyonight" /> 
+</p> 
 
----
-
-<p align="center">
-  <i>"Turning Data Into Insights."</i>
+<p align="center"> 
+  <b>📊 Turning Data Into Insights | 🚀 Learning Every Day</b> 
 </p>
